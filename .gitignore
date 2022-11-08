@@ -1,0 +1,10 @@
+
+file.class
+file.log
+file.php
+file.xml
+
+*.log
+*.class
+/dir
+
